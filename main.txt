@@ -1,3 +1,5 @@
 This is the first project file.
 Git GUI laboratory work.
 Author: Patlasova Elizaveta.
+
+Second line added after first commit.
