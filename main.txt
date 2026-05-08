@@ -3,3 +3,4 @@ Git GUI laboratory work.
 Author: Patlasova Elizaveta.
 
 This line was changed after merge.
+From Dasha DDDDDDDD
